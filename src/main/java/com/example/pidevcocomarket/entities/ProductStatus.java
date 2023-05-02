@@ -1,0 +1,5 @@
+package com.example.pidevcocomarket.entities;
+
+public enum ProductStatus {
+    ATTENTE_CONFIRMATION,ATTENTE_LIVRAISON,ENVOYE,DEMANDE_REMBOURSSEMENT,DEMANDE_REMPLACEMENT,RETOURNE,REMBOURSE
+}

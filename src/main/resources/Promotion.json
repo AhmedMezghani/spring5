@@ -1,0 +1,35 @@
+{
+  "promotions": [
+    {
+      "Date": "2023-02-14",
+      "Descrition": "Saint Valentain",
+      "category": [
+        "Chocolat",
+        "Cadeaux",
+        "flowers"
+      ],
+      "duration": 3,
+      "pourcentage": 30
+    },
+    {
+      "Date": "2023-01-01",
+      "Descrition": "Révillion",
+      "category": [
+        "Chocolat",
+        "Food",
+        "Beer"
+      ],
+      "duration": 2,
+      "pourcentage": 20
+    },
+    {
+      "Date": "2023-11-24",
+      "Descrition": "Black Friday",
+      "category": [
+        "Tous"
+      ],
+      "duration": 7,
+      "pourcentage": 40
+    }
+  ]
+}
